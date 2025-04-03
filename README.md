@@ -17,4 +17,4 @@ $ docker run --platform linux/x86_64 \
 ```
 
 ### demo
-![demo](https://github.com/ryo-imai-bit/lightgbm-example/blob/master/sample.gif?raw=true)
+![demo](https://github.com/ryo-imai-bit/lightgbm-example/blob/master/sample.gif)
