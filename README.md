@@ -3,7 +3,7 @@
 ### installtion
 based on official LighGBM Docker instruction
 
-``sh
+```sh
 $ docker build --platform linux/x86_64 \
     -t lightgbm-python \
     -f dockerfile-python \
@@ -14,4 +14,5 @@ $ docker run --platform linux/x86_64 \
     --workdir /opt/training \
     lightgbm-python \
     python train.py
-``
+```
+
